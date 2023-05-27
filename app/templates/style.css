@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+}
+
+.card-header {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+h1,
+h4,
+h5 {
+    color: #343a40;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.btn-primary {
+    border-radius: 0;
+}
+
+#prediction {
+    font-size: 24px;
+    color: #007bff;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.selectpicker {
+    border-radius: 0;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
