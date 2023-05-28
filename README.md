@@ -23,7 +23,7 @@ The data cleaning and model creation process is documented in one Jupyter notebo
 
 ## Web Application
 
-The project also includes a small web application built using Flask, HTML, and CSS. The web app allows users to input the necessary car features and obtain a predicted price based on the trained linear regression model. Below is an image of the final web application:
+The project also includes a small [web application](https://github.com/atharv-patil/carPricePrediction/tree/main/app) built using Flask, HTML, and CSS. The web app allows users to input the necessary car features and obtain a predicted price based on the trained linear regression model. Below is an image of the final web application:
 
 ![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/54c69d32-3b7c-423b-b28e-29ee03a4a629)
 
