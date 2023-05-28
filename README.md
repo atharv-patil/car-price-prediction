@@ -1,6 +1,6 @@
 # Car Price Predictor
 
-![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/029ce082-4a74-4dec-8540-513b3a5e3cb0)![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/51ccdea6-2f6b-4da3-8d55-2d6d1de00ea1)
+![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/51ccdea6-2f6b-4da3-8d55-2d6d1de00ea1)
 
 
 Car Price Predictor is a project that aims to predict the prices of used cars based on various features. The project utilizes data obtained from the Quikr website in the form of a CSV file. The data is then processed and cleaned using the NumPy and Pandas libraries, resulting in a cleaned data CSV file. A linear regression model is built using the Scikit-learn library to predict the prices of cars based on the available features.
