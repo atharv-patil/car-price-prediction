@@ -17,9 +17,9 @@ Car Price Predictor is a project that aims to predict the prices of used cars ba
 
 The data cleaning and model creation process is documented in one Jupyter notebooks:
 
-- [Data Cleaning Notebook]([https://github.com/atharv-patil/carPricePrediction/blob/main/usedCarPricePrediction.ipynb]: This notebook showcases the steps taken to clean and preprocess the raw data obtained from the Quikr website. Various techniques from the NumPy and Pandas libraries are employed to handle missing values, remove duplicates, and ensure the data is suitable for modeling.
+- [Data Cleaning Notebook](https://github.com/atharv-patil/carPricePrediction/blob/main/usedCarPricePrediction.ipynb): This notebook showcases the steps taken to clean and preprocess the raw data obtained from the Quikr website. Various techniques from the NumPy and Pandas libraries are employed to handle missing values, remove duplicates, and ensure the data is suitable for modeling.
 
-- [Model Creation Notebook]([https://github.com/atharv-patil/carPricePrediction/blob/main/usedCarPricePrediction.ipynb]): This notebook details the creation of the linear regression model using the Scikit-learn library. It includes steps such as feature selection, model training, and evaluation.
+- [Model Creation Notebook](https://github.com/atharv-patil/carPricePrediction/blob/main/usedCarPricePrediction.ipynb): This notebook details the creation of the linear regression model using the Scikit-learn library. It includes steps such as feature selection, model training, and evaluation.
 
 ## Web Application
 
