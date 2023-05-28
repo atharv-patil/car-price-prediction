@@ -56,7 +56,7 @@ The following dependencies are required to run the project:
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/atharv-patil/car-price-prediction.git`.
-2. Navigate to the project directory: `cd carPricePrediction`.
+2. Navigate to the project directory: `cd car-price-prediction`.
 3. Install the required dependencies: `pip install -r requirements.txt`.
 
 ## Contributing
