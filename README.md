@@ -1,6 +1,6 @@
 # Car Price Predictor
 
-![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/51ccdea6-2f6b-4da3-8d55-2d6d1de00ea1)![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/e49f3697-9d74-486a-b5c6-7ff7ea8e5236)![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/274e1c44-3d5f-449d-bfbd-20317e5d5b86)![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/542925b6-650b-4a09-8b8f-b1721a5cab13)
+![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/542925b6-650b-4a09-8b8f-b1721a5cab13)![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/51ccdea6-2f6b-4da3-8d55-2d6d1de00ea1)[image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/274e1c44-3d5f-449d-bfbd-20317e5d5b86)
 
 
 
