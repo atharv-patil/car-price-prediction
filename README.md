@@ -33,7 +33,7 @@ The project also includes a small [web application](https://github.com/atharv-pa
 To use the Car Price Predictor, follow these steps:
 
 1. Install the required dependencies (see [Dependencies](#dependencies) section).
-2. Clone the repository: `git clone https://github.com/your-username/car-price-predictor.git`.
+2. Clone the repository: `git clone https://github.com/atharv-patil/carPricePrediction.git`.
 3. Navigate to the project directory: `cd car-price-predictor`.
 4. Run the web application: `python app.py`.
 5. Open your web browser and visit: `http://localhost:5000`.
