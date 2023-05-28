@@ -21,13 +21,13 @@ Car Price Predictor is a project that aims to predict the prices of used cars ba
 
 The data cleaning and model creation process is documented in one Jupyter notebooks:
 
-- [Data Cleaning Notebook](https://github.com/atharv-patil/carPricePrediction/blob/main/usedCarPricePrediction.ipynb): This notebook showcases the steps taken to clean and preprocess the raw data obtained from the Quikr website. Various techniques from the NumPy and Pandas libraries are employed to handle missing values, remove duplicates, and ensure the data is suitable for modeling.
+- [Data Cleaning Notebook](https://github.com/atharv-patil/car-price-prediction/blob/main/usedCarPricePrediction.ipynb): This notebook showcases the steps taken to clean and preprocess the raw data obtained from the Quikr website. Various techniques from the NumPy and Pandas libraries are employed to handle missing values, remove duplicates, and ensure the data is suitable for modeling.
 
-- [Model Creation Notebook](https://github.com/atharv-patil/carPricePrediction/blob/main/usedCarPricePrediction.ipynb): This notebook details the creation of the linear regression model using the Scikit-learn library. It includes steps such as feature selection, model training, and evaluation.
+- [Model Creation Notebook](https://github.com/atharv-patil/car-price-prediction/blob/main/usedCarPricePrediction.ipynb): This notebook details the creation of the linear regression model using the Scikit-learn library. It includes steps such as feature selection, model training, and evaluation.
 
 ## Web Application
 
-The project also includes a small [web application](https://github.com/atharv-patil/carPricePrediction/tree/main/app) built using Flask, HTML, and CSS. The web app allows users to input the necessary car features and obtain a predicted price based on the trained linear regression model. Below is an image of the final web application:
+The project also includes a small [web application](https://github.com/atharv-patil/car-price-prediction/tree/main/app) built using Flask, HTML, and CSS. The web app allows users to input the necessary car features and obtain a predicted price based on the trained linear regression model. Below is an image of the final web application:
 
 ![image](https://github.com/atharv-patil/carPricePrediction/assets/83455141/54c69d32-3b7c-423b-b28e-29ee03a4a629)
 
@@ -55,7 +55,7 @@ The following dependencies are required to run the project:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/atharv-patil/carPricePrediction`.
+1. Clone the repository: `git clone https://github.com/atharv-patil/car-price-prediction.git`.
 2. Navigate to the project directory: `cd carPricePrediction`.
 3. Install the required dependencies: `pip install -r requirements.txt`.
 
