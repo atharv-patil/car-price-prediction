@@ -8,14 +8,7 @@
 
 Car Price Predictor is a project that aims to predict the prices of used cars based on various features. The project utilizes data obtained from the Quikr website in the form of a CSV file. The data is then processed and cleaned using the NumPy and Pandas libraries, resulting in a cleaned data CSV file. A linear regression model is built using the Scikit-learn library to predict the prices of cars based on the available features.
 
-## Table of Contents
-- [Data Cleaning and Model Creation Notebooks](#data-cleaning-and-model-creation-notebooks)
-- [Web Application](#web-application)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Data Cleaning and Model Creation Notebooks
 
